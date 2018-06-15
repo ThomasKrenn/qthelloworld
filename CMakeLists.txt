@@ -1,9 +1,9 @@
 cmake_minimum_required (VERSION 3.9)
 project (qthelloworld)
 
-#
+# cd <buildir>
 # cmake -DCMAKE_INSTALL_PREFIX=<install dir> -G  "Visual Studio 14 2015 Win64" ..
-#
+# 
 # cmake -DCMAKE_INSTALL_PREFIX=<install dir> -G  "Unix Makefiles"  ..
 #
 
